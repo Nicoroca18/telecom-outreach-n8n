@@ -55,10 +55,10 @@ This n8n workflow automates outbound B2B email campaigns. It extracts company an
 
 
 Notes
-	•	All AI prompts and outputs are contained in the workflow nodes.
-	•	Replace placeholder credentials with your own before running.
-	•	The workflow is modular—nodes can be updated or replaced without breaking the flow.
-	•	Use only with non-confidential test data if sharing publicly.
+	- All AI prompts and outputs are contained in the workflow nodes.
+	- Replace placeholder credentials with your own before running.
+	- The workflow is modular—nodes can be updated or replaced without breaking the flow.
+	- Use only with non-confidential test data if sharing publicly.
 
 
 
