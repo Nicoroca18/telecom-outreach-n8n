@@ -40,10 +40,10 @@ This n8n workflow automates outbound B2B email campaigns. It extracts company an
    
 3.	Configure credentials for:
 
-•	Google Drive
-•	Slack
-•	AI model (Google Gemini)
-•	Hunter API (optional)
+- Google Drive
+- Slack
+- AI model (Google Gemini)
+- Hunter API (optional)
 
 
 4. Import the workflow JSON into your n8n instance.
