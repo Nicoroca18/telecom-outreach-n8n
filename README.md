@@ -20,7 +20,7 @@ This n8n workflow automates outbound B2B email campaigns. It extracts company an
 2. Extract data from uploaded Excel sheets.
 3. Clean and merge company/contact data.
 4. Scrape website and LinkedIn pages for extra context.
-5. Use AI to generate personalized emails and follow-ups.
+5. Use AI to generate personalized emails and follow-ups. 
 6. Evaluate emails with AI to ensure quality.
 7. Map final email content and store it in the data table.
 8. Notify via Slack and upload processed files to Google Drive.
